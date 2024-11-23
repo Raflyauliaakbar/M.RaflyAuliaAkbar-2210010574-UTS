@@ -1,6 +1,3 @@
-Berikut adalah README file yang telah diperbarui dengan ikon buku pada judul dan tambahan bagian untuk beberapa gambar:
-
----
 
 # 📚 Aplikasi Inventaris Barang
 
