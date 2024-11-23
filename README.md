@@ -89,7 +89,3 @@ Aplikasi ini dirancang untuk membantu pengguna dalam mengelola inventaris barang
 Ikon dalam aplikasi ini didukung oleh **Icons8**.
 
 ---
-
-**Catatan:**
-1. Ganti nama file gambar pada bagian screenshot sesuai dengan nama file yang Anda gunakan.
-2. Pastikan file gambar diletakkan di folder `screenshots` di dalam direktori proyek Anda.
