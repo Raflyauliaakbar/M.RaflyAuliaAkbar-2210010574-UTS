@@ -65,19 +65,19 @@ Aplikasi ini dirancang untuk membantu pengguna dalam mengelola inventaris barang
 
 ### Halaman Utama
 *(Tambahkan screenshot dari halaman utama aplikasi di sini)*
-![Halaman Utama](./screenshots/halaman_utama.png)
+![Halaman Utama](screenshots/Utama.png)
 
 ### Riwayat Barang
 *(Tambahkan screenshot dari daftar barang di sini)*
-![Riwayat Barang](./screenshots/riwayat_barang.png)
+![Riwayat Barang](screenshots/HalamanPerpustakaan.png)
 
 ### Ekspor Data
 *(Tambahkan screenshot saat melakukan ekspor data di sini)*
-![Ekspor Data](./screenshots/ekspor_data.png)
+![Ekspor Data](screenshots/Export.png)
 
 ### Impor Data
 *(Tambahkan screenshot saat melakukan impor data di sini)*
-![Impor Data](./screenshots/impor_data.png)
+![Impor Data](screenshots/Import.png)
 
 ## Penulis
 
